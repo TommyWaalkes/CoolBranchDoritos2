@@ -7,7 +7,7 @@ namespace BranchingDemo
         static void Main(string[] args)
         {
             Console.WriteLine("I want hot dogs for lunch!");
-            Console.WriteLine("Desiro Lucky Charms");
+            int creditNum = 58493202;
             Console.WriteLine("Salve munde!");
             Console.WriteLine("!Hola Mundo!");
             Console.WriteLine("Pasta Pasta");
